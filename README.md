@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justivan
-- 👀 I’m interested in web development and data analisys.
+- 👀 I’m interested in web development and data analysis.
 - 🌱 I’m currently learning python.
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...--->
